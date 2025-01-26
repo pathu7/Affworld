@@ -6,7 +6,7 @@ This is a simple chat application built with Node.js and Socket.io, allowing use
 
 1. Clone this repository to your local machine.
 
-   git clone https://github.com/your_username/chat-application.git
+   git clone https://github.com/your_username/Affworld.git
 
 2. Navigate to the `server` folder in your terminal.
 
@@ -20,7 +20,7 @@ This is a simple chat application built with Node.js and Socket.io, allowing use
 
    npm start
 
-5. Repeat the same process for the `client` and `socket` folders, navigating to each one and running `npm install` followed by `npm start`.
+5. Repeat the same process for the `client` folders, navigating to each one and running `npm install` followed by `npm start`.
 
 ## Configuration
 
@@ -35,8 +35,8 @@ After starting the server, open the `client` folder and locate the `config.js` f
 ## Usage
 
 1. Open the client application in your browser.
-2. Enter your username and join the chat room.
-3. Start sending messages and interact with other users in real-time.
+2. Enter your username and join the Task Management System.
+3. Start Task Management System and interact with other users.
 
 ## Contributing
 
