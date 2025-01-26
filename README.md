@@ -1,4 +1,4 @@
-# Chat Application
+# Task Management System
 
 This is a simple chat application built with Node.js and Socket.io, allowing users to communicate in real-time over a local network.
 
